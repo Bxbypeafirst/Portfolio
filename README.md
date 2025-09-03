@@ -105,7 +105,7 @@
 <body>
   <header>
     <img src="profile.jpg" alt="รูปโปรไฟล์">
-    <h1>สวัสดีครับ ผมชื่อ ถิรณภัทร บริรักษ์สาธร</h1>
+    <h1>สวัสดีครับ ผมชื่อ ทินภัทร บริรักษ์สาทร</h1>
     <p><strong>ชื่อเล่น:</strong> Bxbysmurf / BxbyPeafirst</p>
     <p><strong>อายุ:</strong> 20 ปี</p>
     <p><strong>วันเกิด:</strong> 17 มกราคม 2548</p>
